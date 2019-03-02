@@ -71,7 +71,7 @@ background:rgba(0,0,0,.3);
 color:#797979;
 }
 
-.inbox_message .head,.vertical_space.box .head,table.forum_post .colhead_dark td,.forum_post.forum_unread .colhead_dark td,.forum_post.sticky_post .colhead_dark td {
+.inbox_message .head,.vertical_space.box .head,table.forum_post .colhead_dark td,.forum_post.forum_unread .colhead_dark td,.forum_post.sticky_post .colhead_dark td,#forums div.box.thin.clear .colhead_dark {
 color:#cecece;
 }
 
@@ -89,4 +89,9 @@ color:#797979;
 
 body body,#better table .rowa,#inbox #messageform table .rowa,#log_table .rowa,#rules table .rowa,#top10 .torrent_table .rowa,#torrents .vote_matches_table .rowa,#upload #dnulist .rowa,#userhistory table:not(.forum_post):not(.users_reports_table) .rowa,.collage_table .rowa,.forum_list.border .rowa,.request_table .rowa,.torrent_table .rowa,.users_reports_table .rowa,.wiki_log_table .rowa,table.staff .rowa,#better table td,#inbox #messageform table td,#log_table td,#rules table td,#torrents .vote_matches_table td,#upload #dnulist td,#userhistory table:not(.forum_post):not(.users_reports_table) td,.collage_table td,.forum_list.border td,.request_table td,.users_reports_table td,.wiki_log_table td,table.staff td,#content,table.forum_post,#artist .edit_form,#artist_information,#changelog .changelog_entry,#collage .create_form,#edit_collage,#filter_form,#friends .friends_table,#inbox #searchbox,#questions .box2,#reportform,#reports .box,#similar_artist_map,#staff .box,#torrents .edit_form,#torrents .torrent_description,#upload #content > div,#user .edit_form:not(#userform),.inbox_message,.sidebar .box,.users_reports_table,.vertical_space.box,.torrent_table #upload #dnulist tr:not(.colhead):not(.colhead_dark):nth-of-type(2n) td,.torrent_table tr.group_torrent:not(.edition),.torrent_table tr.edition,.main_column table.forum_post,#better table .rowb,#inbox #messageform table .rowb,#log_table .rowb,#rules table .rowb,#top10 .torrent_table .rowb,#torrents .vote_matches_table .rowb,#upload #dnulist .rowb,#userhistory table:not(.forum_post):not(.users_reports_table) .rowb,.collage_table .rowb,.forum_list.border .rowb,.request_table .rowb,.torrent_table .rowb,.users_reports_table .rowb,.wiki_log_table .rowb,table.staff .rowb {
 background:transparent;
+}
+
+#forums div.box.thin.clear .colhead_dark {
+background-color:#373737;
+border:#b0b0b0;
 }
