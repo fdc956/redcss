@@ -63,7 +63,8 @@ table.forum_post,
 .torrent_table #upload #dnulist tr:not(.colhead):not(.colhead_dark):nth-of-type(2n) td,
 .request_table tr:not(.colhead):not(.colhead_dark):nth-of-type(2n) td,
 .torrent_table tr.group_torrent:not(.edition),
-.torrent_table tr.edition {
+.torrent_table tr.edition,
+.main_column table.forum_post {
     background: #000;
 }
 
