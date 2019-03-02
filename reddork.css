@@ -132,6 +132,12 @@ table.staff tr.colhead td,
     color: #cafffc !important;
 }
 
+.inbox_message .head,
+.vertical_space.box .head,
+table.forum_post .colhead_dark td {
+    border: 0;
+}
+
 #rules h4,
 #rules h5,
 #torrents table:not(.forum_post) .colhead_dark,
