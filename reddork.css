@@ -77,7 +77,7 @@ table.forum_post,
 .vertical_space.box .head,
 table.forum_post .colhead_dark td,
 .forum_post.sticky_post .colhead_dark td {
-    background: #6463aa;
+    background: #1c154e;
 }
 
 .forum_post.forum_unread .colhead_dark td {
