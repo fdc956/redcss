@@ -147,6 +147,10 @@ h2,
     color: #4a4a4a;
 }
 
+a {
+    color: #74a57f;
+}
+
 #userinfo_minor:hover li:hover a {
     color: #cccccc;
 }
