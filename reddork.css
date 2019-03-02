@@ -27,7 +27,6 @@ table.staff .rowa,
 #inbox #messageform table td,
 #log_table td,
 #rules table td,
-#top10 .torrent_table td,
 #torrents .vote_matches_table td,
 #upload #dnulist td,
 #userhistory table:not(.forum_post):not(.users_reports_table) td,
@@ -70,7 +69,8 @@ table.forum_post,
 
 .group_info,
 .torrent_table tr.group,
-.torrent_table tr.torrent {
+.torrent_table tr.torrent,
+#top10 .torrent_table td {
     background: #040404
 }
 
