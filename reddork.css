@@ -148,7 +148,7 @@ h2,
 }
 
 a {
-    color: #74a57f;
+    color: #7d7d7d;
 }
 
 #userinfo_minor:hover li:hover a {
@@ -191,7 +191,7 @@ table.forum_post .colhead_dark td,
 .torrent_table .discog strong > a:hover,
 .torrent_table .group_info > a:hover,
 a:hover {
-    color: #797979;
+    color: #d5d5d5;
 }
 
 .header h2 a:hover,
