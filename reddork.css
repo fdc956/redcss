@@ -55,7 +55,7 @@ background:#004a2c;
 color:#cafffc!important;
 }
 
-.inbox_message .head,.vertical_space.box .head,table.forum_post .colhead_dark td {
+#content,.inbox_message .head,.vertical_space.box .head,table.forum_post .colhead_dark td {
 border:0;
 }
 
