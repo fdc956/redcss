@@ -63,11 +63,11 @@ border:0;
 color:#4a4a4a;
 }
 
-a {
+.noty_buttons a,a {
 color:#7d7d7d;
 }
 
-#userinfo_minor:hover li:hover a {
+.noty_buttons a:hover,#userinfo_minor:hover li:hover a {
 color:#CCC;
 }
 
