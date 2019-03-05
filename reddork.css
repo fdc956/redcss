@@ -43,8 +43,12 @@ border:#b0b0b0;
 background:#040404;
 }
 
-.inbox_message .head,.vertical_space.box .head,table.forum_post .colhead_dark td,.forum_post.sticky_post .colhead_dark td,#artist_information .colhead,#artist_information .head,#similar_artist_map .colhead,#similar_artist_map .head,#torrents .torrent_description .colhead,#torrents .torrent_description .head {
+.inbox_message .head,.vertical_space.box .head,table.forum_post .colhead_dark td,#artist_information .colhead,#artist_information .head,#similar_artist_map .colhead,#similar_artist_map .head,#torrents .torrent_description .colhead,#torrents .torrent_description .head {
 background:#121416;
+}
+
+.forum_post.sticky_post .colhead_dark td {
+background-color:teal;
 }
 
 .forum_post.forum_unread .colhead_dark td {
