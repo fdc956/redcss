@@ -80,11 +80,11 @@ animation:none!important;
 }
 
 .torrent_links_block a,.torrent_table .group_torrent > td > span a,.torrent_table span a {
-color:#babbb9!important;
+color:#7d7d7d!important;
 }
 
 .torrent_table span a:hover,.torrent_table .group_torrent > td > span a:hover,.torrent_links_block a:hover {
-color:#fff!important;
+color:#b9b9d0!important;
 }
 
 .tags a:hover {
