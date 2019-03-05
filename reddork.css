@@ -104,6 +104,10 @@ color:#b9b9d0;
 display:none;
 }
 
-.torrent_table .discog span > a:hover,.torrent_table .discog strong > a:hover,.torrent_table .group_info > a:hover,.head,h2 a,h3 a,.header h2 a:hover,.forum_index a:hover {
-color:#99F;
+.head,.header h2 a {
+color:#F5F5DC;
+}
+
+.torrent_table .discog span > a:hover,.torrent_table .discog strong > a:hover,.torrent_table .group_info > a:hover,h2 a,h3 a,.header h2 a:hover,.forum_index a:hover {
+color:#abc8c0;
 }
