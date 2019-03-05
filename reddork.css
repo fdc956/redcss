@@ -52,7 +52,11 @@ background:#004a2c;
 }
 
 .torrent_table tr.edition td {
-color:#74a4bc!important;
+color:#9F0!important;
+}
+
+.tl_notice {
+color:#F90!important;
 }
 
 #content,.inbox_message .head,.vertical_space.box .head,table.forum_post .colhead_dark td {
@@ -60,11 +64,11 @@ border:0;
 }
 
 #rules h4,#rules h5,#torrents table:not(.forum_post) .colhead_dark,.sidebar .colhead_dark,.sidebar .head,.forum_index tr.colhead td,table.forum_list tr.colhead td,#forums .search_form .cat_list td.forum_cat strong,#userform td:not(.label) > strong,.donation_info_title,h3,h2,.header h2 a {
-color:#4a4a4a;
+color:#696969;
 }
 
 .noty_buttons a,a {
-color:#7d7d7d;
+color:#789;
 }
 
 .quoteheader,.noty_buttons a:hover,#userinfo_minor:hover li:hover a {
@@ -80,11 +84,11 @@ animation:none!important;
 }
 
 .torrent_links_block a,.torrent_table .group_torrent > td > span a,.torrent_table span a {
-color:#7d7d7d!important;
+color:#06F!important;
 }
 
 .torrent_table span a:hover,.torrent_table .group_torrent > td > span a:hover,.torrent_links_block a:hover {
-color:#b9b9d0!important;
+color:#099!important;
 }
 
 .tags a:hover {
@@ -92,7 +96,7 @@ background:rgba(0,0,0,.3);
 color:#b9b9d0;
 }
 
-.torrent_table .discog span > a:hover,.torrent_table .discog strong > a:hover,.torrent_table .group_info > a:hover,a:hover {
+a:hover {
 color:#b9b9d0;
 }
 
@@ -100,6 +104,6 @@ color:#b9b9d0;
 display:none;
 }
 
-.head,h2 a,h3 a,.header h2 a:hover,.forum_index a:hover {
-color:#797979;
+.torrent_table .discog span > a:hover,.torrent_table .discog strong > a:hover,.torrent_table .group_info > a:hover,.head,h2 a,h3 a,.header h2 a:hover,.forum_index a:hover {
+color:#99F;
 }
