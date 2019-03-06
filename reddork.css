@@ -59,7 +59,7 @@ background:#004a2c;
 background:#202020;
 }
 
-.torrent_table tr.edition td {
+.torrentdetails table .colhead_dark td,.torrent_table tr.edition td {
 color:#9F6!important;
 }
 
