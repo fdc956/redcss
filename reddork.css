@@ -30,7 +30,7 @@ background:transparent;
 color:#669;
 }
 
-.inbox_message .head,.vertical_space.box .head,table.forum_post .colhead_dark td,.forum_post.forum_unread .colhead_dark td,.forum_post.sticky_post .colhead_dark td,#forums div.box.thin.clear .colhead_dark {
+.inbox_message .head,.vertical_space.box .head,table.forum_post .colhead_dark td,.forum_post.forum_unread .colhead_dark td,.forum_post.sticky_post .colhead_dark td,#forums div.box.thin.clear .colhead_dark,#upload #dnulist tr:not(.colhead) td:first-of-type {
 color:#cecece;
 }
 
