@@ -67,6 +67,10 @@ color:#9F6!important;
 color:#F90!important;
 }
 
+.forum_post.sticky_post .sticky_post_label {
+color:#F90;
+}
+
 #content,.inbox_message .head,.vertical_space.box .head,table.forum_post .colhead_dark td {
 border:0;
 }
