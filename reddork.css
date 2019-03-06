@@ -35,7 +35,7 @@ color:#cecece;
 }
 
 #upload #dnulist tr:not(.colhead):not(.colhead_dark):nth-of-type(2n) td,.request_table tr:not(.colhead):not(.colhead_dark):nth-of-type(2n) td,#better table tr:not(.colhead):not(.colhead_dark):hover td,#inbox #messageform table tr:not(.colhead):not(.colhead_dark):hover td,#log_table tr:not(.colhead):not(.colhead_dark):hover td,#rules table tr:not(.colhead):not(.colhead_dark):hover td,#torrents .vote_matches_table tr:not(.colhead):not(.colhead_dark):hover td,#userhistory table:not(.forum_post):not(.users_reports_table) tr:not(.colhead):not(.colhead_dark):hover td,.forum_list.border tr:not(.colhead):not(.colhead_dark):hover td,.wiki_log_table tr:not(.colhead):not(.colhead_dark):hover td,table.staff tr:not(.colhead):not(.colhead_dark):hover td {
-background-color:#141414;
+background-color:#0f0f0f;
 }
 
 #forums div.box.thin.clear .colhead_dark {
