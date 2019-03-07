@@ -43,8 +43,12 @@ background-color:#373737;
 border:#b0b0b0;
 }
 
-.torrent_table tr.group,.torrent_table tr.torrent,#top10 .torrent_table td,.request_table tr:not(.colhead):not(.colhead_dark):nth-of-type(2n) td {
+#top10 .torrent_table td,.request_table tr:not(.colhead):not(.colhead_dark):nth-of-type(2n) td {
 background:#040404;
+}
+
+.torrent_table tr.group,.torrent_table tr.torrent {
+background:#101117;
 }
 
 .inbox_message .head,.vertical_space.box .head,table.forum_post .colhead_dark td,#artist_information .colhead,#artist_information .head,#similar_artist_map .colhead,#similar_artist_map .head,#torrents .torrent_description .colhead,#torrents .torrent_description .head {
