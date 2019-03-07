@@ -112,7 +112,7 @@ color:#06F!important;
 color:#8bb9ff!important;
 }
 
-.noty_buttons a,a {
+h2 a,h3 a,.noty_buttons a,a {
 color:#23b5d3;
 }
 
@@ -133,7 +133,7 @@ display:none;
 color:#F5F5DC;
 }
 
-.torrent_table .discog span > a:hover,.torrent_table .discog strong > a:hover,.torrent_table .group_info > a:hover,h2 a,h3 a,.header h2 a:hover {
+.torrent_table .discog span > a:hover,.torrent_table .discog strong > a:hover,.torrent_table .group_info > a:hover,.header h2 a:hover {
 color:#04a777;
 }
 
