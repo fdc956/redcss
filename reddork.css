@@ -43,7 +43,7 @@ background-color:#373737;
 border:#b0b0b0;
 }
 
-#top10 .torrent_table td,.request_table tr:not(.colhead):not(.colhead_dark):nth-of-type(2n) td {
+.users_reports_table tr:not(.colhead):not(.colhead_dark):nth-of-type(4n),.users_reports_table tr:not(.colhead):not(.colhead_dark):nth-of-type(4n+1) td,#top10 .torrent_table td,.request_table tr:not(.colhead):not(.colhead_dark):nth-of-type(2n) td {
 background:#040404;
 }
 
