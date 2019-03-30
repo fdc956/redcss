@@ -116,7 +116,7 @@ color:#06F!important;
 color:#8bb9ff!important;
 }
 
-h2 a,h3 a,.header h2 a,.noty_buttons a,a {
+.header h2 a,h2 a,h3 a,.noty_buttons a,a {
 color:#23b5d3;
 }
 
