@@ -113,10 +113,6 @@ background:rgba(0,0,0,.3);
 color:#04a777;
 }
 
-#menu ul li a::after {
-display:none;
-}
-
 .head {
 color:#F5F5DC;
 }
