@@ -80,7 +80,7 @@ color:#9F6;
 border:0;
 }
 
-#rules h4,#rules h5,#torrents table:not(.forum_post) .colhead_dark,.sidebar .colhead_dark,.sidebar .head,table.forum_list tr.colhead td,#forums .search_form .cat_list td.forum_cat strong,#userform td:not(.label) > strong,.donation_info_title,h1,h2,h3,center {
+#rules h4,#rules h5,#torrents table:not(.forum_post) .colhead_dark,.sidebar .colhead_dark,.sidebar .head,table.forum_list tr.colhead td,#forums .search_form .cat_list td.forum_cat strong,#userform td:not(.label) > strong,.donation_info_title,h1,h2,h3,center,div,p {
 color:#7e7e7e;
 }
 
