@@ -1,4 +1,4 @@
-* {
+*,:before,:after {
 font-family:"Lucida Console", Monaco, monospace!important;
 }
 
@@ -77,8 +77,12 @@ color:#9F6;
 border:0;
 }
 
-#rules h4,#rules h5,#torrents table:not(.forum_post) .colhead_dark,.sidebar .colhead_dark,.sidebar .head,table.forum_list tr.colhead td,#forums .search_form .cat_list td.forum_cat strong,#userform td:not(.label) > strong,.donation_info_title {
+#rules h4,#rules h5,#torrents table:not(.forum_post) .colhead_dark,.sidebar .colhead_dark,.sidebar .head,table.forum_list tr.colhead td,#forums .search_form .cat_list td.forum_cat strong,#userform td:not(.label) > strong,.donation_info_title,.r00,.r01,.r02,.r03,.r04,.r05,.r06,.r07,.r08,.r09,.r10,.r20,.r50,.r99 {
 color:#7e7e7e;
+}
+
+.rippywrap {
+display:none;
 }
 
 h1,h2,h3,center,p,div {
