@@ -3,6 +3,8 @@ font-family:"Lucida Console", Monaco, monospace!important;
 transition-property:none!important;
 transform:none!important;
 animation:none!important;
+text-shadow:none!important;
+box-shadow:none!important;
 }
 
 body {
@@ -96,8 +98,17 @@ color:#b4b5b0;
 color:#CCC;
 }
 
-ul.collage_images img:hover {
--webkit-box-shadow:0 0 3px #669;
+ul.collage_images img,#user table.recent img {
+border:2px solid #2f2f2f;
+}
+
+ul.collage_images img:hover,#user table.recent img:hover {
+border-color:#4f4f4f;
+}
+
+ul.collage_images,#user table.recent {
+border:0;
+background:none;
 }
 
 .torrent_links_block a,.torrent_table .group_torrent > td > span a,.torrent_table span a {
