@@ -1,3 +1,10 @@
+/* ==UserStyle==
+@name         RED Bright
+@namespace    github.com/fdc956/redcss
+@version      1.0.0
+==/UserStyle== */
+
+@-moz-document domain("redacted.ch") {
 *,:before,:after {
 font-family:"Lucida Console", Monaco, monospace!important;
 transition-property:none!important;
@@ -157,4 +164,5 @@ background:#eee;
 
 #rules h4 a,#rules h5 a,#torrents table:not(.forum_post) .colhead_dark a,.colhead a,.sidebar .colhead_dark a,.sidebar .head a {
 color:#b64d4d;
+}
 }
