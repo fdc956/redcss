@@ -106,6 +106,7 @@ color:#000;
 
 ul.collage_images img,#user table.recent img {
 border:2px solid #eee;
+padding:0;
 }
 
 ul.collage_images img:hover,#user table.recent img:hover {
