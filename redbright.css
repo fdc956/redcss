@@ -154,3 +154,7 @@ color:#0f0f0f;
 .users_reports_table tr:not(.colhead):not(.colhead_dark):nth-of-type(4n),.users_reports_table tr:not(.colhead):not(.colhead_dark):nth-of-type(4n+1) td,#top10 .torrent_table td,.request_table tr:not(.colhead):not(.colhead_dark):nth-of-type(2n) td,.inbox_message .head,.vertical_space.box .head,#artist_information .colhead,#artist_information .head,#similar_artist_map .colhead,#similar_artist_map .head,#torrents .torrent_description .colhead,#torrents .torrent_description .head {
 background:#eee;
 }
+
+#rules h4 a,#rules h5 a,#torrents table:not(.forum_post) .colhead_dark a,.colhead a,.sidebar .colhead_dark a,.sidebar .head a {
+color:#b64d4d;
+}
