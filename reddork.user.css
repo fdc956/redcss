@@ -1,3 +1,10 @@
+/* ==UserStyle==
+@name         RED Dork
+@namespace    github.com/fdc956/redcss
+@version      2.0.0
+==/UserStyle== */
+
+@-moz-document domain("redacted.ch") {
 *,:before,:after {
 font-family:"Lucida Console", Monaco, monospace!important;
 transition-property:none!important;
@@ -143,4 +150,5 @@ color:#04a777;
 
 .forum_index a:hover {
 color:#afafaf;
+}
 }
