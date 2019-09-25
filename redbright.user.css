@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name         RED Bright
 @namespace    github.com/fdc956/redcss
-@version      1.0.0
+@version      1.1.0
 @description  White theme meant to be used alongside 'RED Light' stylesheet
 ==/UserStyle== */
 
@@ -30,7 +30,7 @@ background:transparent;
 }
 
 .inbox_message .head,.vertical_space.box .head,.forum_post.forum_unread .colhead_dark td,#forums div.box.thin.clear .colhead_dark,#upload #dnulist tr:not(.colhead) td:first-of-type {
-color:#cecece;
+color:#777;
 }
 
 #upload #dnulist tr:not(.colhead):not(.colhead_dark):nth-of-type(2n) td,.request_table tr:not(.colhead):not(.colhead_dark):nth-of-type(2n) td,#better table tr:not(.colhead):not(.colhead_dark):hover td,#inbox #messageform table tr:not(.colhead):not(.colhead_dark):hover td,#log_table tr:not(.colhead):not(.colhead_dark):hover td,#rules table tr:not(.colhead):not(.colhead_dark):hover td,#torrents .vote_matches_table tr:not(.colhead):not(.colhead_dark):hover td,#userhistory table:not(.forum_post):not(.users_reports_table) tr:not(.colhead):not(.colhead_dark):hover td,.forum_list.border tr:not(.colhead):not(.colhead_dark):hover td,.wiki_log_table tr:not(.colhead):not(.colhead_dark):hover td,table.staff tr:not(.colhead):not(.colhead_dark):hover td {
@@ -68,7 +68,7 @@ color:#393635;
 }
 
 .autocomplete-selected {
-background:#202020;
+background:#888;
 }
 
 .torrentdetails table .colhead_dark td,.torrent_table tr.edition td {
