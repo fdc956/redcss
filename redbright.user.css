@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name         RED Bright
 @namespace    github.com/fdc956/redcss
-@version      1.1.0
+@version      1.1.1
 @description  White theme meant to be used alongside 'RED Light' stylesheet
 ==/UserStyle== */
 
@@ -100,7 +100,7 @@ table.forum_post .colhead_dark td {
 background:#e1e1e1;
 }
 
-#rules h4,#rules h5,#torrents table:not(.forum_post) .colhead_dark,.sidebar .colhead_dark,.sidebar .head,table.forum_list tr.colhead td,#forums .search_form .cat_list td.forum_cat strong,#userform td:not(.label) > strong,.donation_info_title {
+#rules h4,#rules h5,#torrents table:not(.forum_post) .colhead_dark,.sidebar .colhead_dark,table.forum_list tr.colhead td,#forums .search_form .cat_list td.forum_cat strong,#userform td:not(.label) > strong,.donation_info_title {
 color:#7e7e7e;
 }
 
