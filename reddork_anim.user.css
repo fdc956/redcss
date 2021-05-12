@@ -7,7 +7,7 @@
 
 @-moz-document domain("redacted.ch") {
 * {
-font-family:"Lucida Console", Monaco, monospace!important;
+font-family:monospace!important;
 text-shadow:none!important;
 box-shadow:none!important;
 }
